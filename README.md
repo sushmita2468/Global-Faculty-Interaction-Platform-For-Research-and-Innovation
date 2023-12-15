@@ -1,1 +1,2 @@
-# Global-Faculty-Interaction-Platform-For-Research-and-Innovation
+# -all-in-one-GFD
+this repo contain all our code done so far
